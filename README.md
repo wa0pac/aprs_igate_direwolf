@@ -10,14 +10,14 @@ Requirements:
 Bill of Materials:
 1. Raspberry Pi 3B
 2. Audioinjector Zero - https://www.audioinjector.net/rpi-zero
-3. Radio Interface - https://www.ebay.com/itm/233584370396
+3. KQ4BX Radio Interface - https://www.ebay.com/itm/233584370396
 4. Hifiberry case - https://www.amazon.com/gp/product/B016954T3I/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 5. 3.5mm TRS Female Connectors (Qty 2)
 6. 3.5mm TRS Male Connectors (Qty 2)
 
 Notes:
 The Audioinjector card was chosen because it had a small footprint and fits on top of a Raspberry Pi 3B and has both audio input and audio output (and other flavors.)
-The KB0XX Radio Interface was choosen because it is a surface mount variant of the proven Easy Digi radio interface. It is important to inspect the solder connections for this part due to quality. I needed to touch up a poor solder joint.
+The KQ4BX Radio Interface was choosen because it is a surface mount variant of the Easy Digi radio interface and the size was small enough to fit in the case with the Audioinjector card. It is important to inspect the solder connections for this part due to quality. I needed to touch up a poor solder joint.
 
 Wiring:
 
