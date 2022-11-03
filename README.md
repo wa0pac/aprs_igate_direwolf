@@ -30,7 +30,21 @@ The KQ4BX Radio Interface was choosen because it is a surface mount variant of t
 
 <img src="https://user-images.githubusercontent.com/17286096/199636537-4fbe3f5d-b888-4361-acca-ded7e28aa97e.png" width="300" >
 
+## Finished Assembly
 <img src="https://user-images.githubusercontent.com/17286096/199734887-0536608a-e6d0-4cc5-a2ba-a1de266213ad.jpg" width="300">
 <img src="https://user-images.githubusercontent.com/17286096/199734898-4c9f2bdf-2bce-49d3-9ec0-0bfaf38f8ada.jpg" width="300">
+
+## Loading OS
+I installed the Raspberry OS Lite 64 using the Raspberry Pi Imager using the settings to configure the hostname, ssh, username and password, wifi settings, and locale settings.
+
+## Install and Configure 
+Follow this site to setup and configure Direwolf
+https://k5eok.org/2021/01/19/aprs-digipeater-igate-with-direwolf-entry-level/
+
+Using this setup, the GPIO pin that is used for PTT is GPIO 26.
+
+Because I used the right channel I needed to set up both Channel 0 and Channel 1. Channel 0 is not used.
+
+I ran into problems with receiving and needed to turn on the Capture setting in the Alsa mixer. In order to do that I needed to select the Capture setting and use the spacebar to turn it on.
 
 
