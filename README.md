@@ -3,7 +3,7 @@ Implementation of an aprs igate using direwolf running on a Raspberry Pi
 
 Requirements:
 1. Hardware (Raspberry Pi, sound card, radio interface) fit in one Raspberry Pi project box.
-2. Minimal wireing between iGate and radio.
+2. Minimal wiring between iGate and radio.
 3. Run on a headless Raspberry Pi using either Direwolf or APRX
 
 
