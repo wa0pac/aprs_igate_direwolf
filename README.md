@@ -12,6 +12,8 @@ Bill of Materials:
 2. Audioinjector Zero - https://www.audioinjector.net/rpi-zero
 3. Radio Interface - https://www.ebay.com/itm/233584370396
 4. Hifiberry case - https://www.amazon.com/gp/product/B016954T3I/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+5. 3.5mm TRS Female Connectors (Qty 2)
+6. 3.5mm TRS Male Connectors (Qty 2)
 
 Notes:
 The Audioinjector card was chosen because it had a small footprint and fits on top of a Raspberry Pi 3B and has both audio input and audio output (and other flavors.)
